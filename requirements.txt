@@ -1,3 +1,5 @@
 streamlit
 markitdown
 requests
+python-pptx 
+plum-dispatch
